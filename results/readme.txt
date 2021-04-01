@@ -1,0 +1,1 @@
+W tym katalogu program zapisze raporty z symulacji. Jeśli istnieją już w tym katalogu zapisane raporty, zostaną nadpisane.
